@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NGopi</string>
+    <string name="Esp">Espresso.........................Rp16.000 Single shot Espresso</string>
+    <string name="Dop">Doppio............................Rp15.000 Double shot Espresso</string>
+    <string name="mac">Macchiato.......................Rp24.000 Espresso with a dollop of milk</string>
+    <string name="lat">Cafe Latte.......................Rp15.000 Espresso with steamed milk and foam</string>
+    <string name="cap">Cappuccino....................Rp18.000 Short size latte</string>
+    <string name="aff">Caramel Cream Frappuccino.................Rp25.000 Milk blended with caramel sauce and ice then topped with whipped cream and caramel drizzle.</string>
+    <string name="about3">Kemudian kata qahwah lebih digunakan untuk menyebut minuman kopi ini daripada untuk menyebut minuman anggur, sedangkan kata bunn akhirnya lebih digunakan untuk menyebut biji kopi daripada untuk menyebut kacang-kacangan. Kata qahwah kembali mengalami perubahan menjadi kahveh di bahasa Turki dan kemudian berubah lagi menjadi koffie dalam bahasa Belanda.</string>
+    <string name="about2">Kata kopi sendiri awalnya berasal dari bahasa Arab: قهوة‎ qahwah yang pada masa itu digunakan untuk menyebut minuman anggur, sedangkan kata bunn pada masa itu digunakan untuk menyebut kacang-kacangan. Maka disebutlah qahwah al-bunn yang berarti minuman mirip anggur yang berasal dari biji-bijian seperti kacang.</string>
+    <string name="about1">Kopi adalah minuman hasil seduhan biji kopi yang telah disangrai dan dihaluskan menjadi bubuk. Kopi merupakan salah satu komonitas di dunia yang dibudidayakan lebih dari 50 negara. Dua spesies pohon kopi yang dikenal secara umum yaitu Kopi Robusta (Coffea canephora) dan Kopi Arabika (Coffea arabica)</string>
+    <string name="brd1">cup coffe paid for in advance as an anonymous act of charity</string>
+    <string name="brd2">If you experinced good luck, Paying the price of two coffes but receiving and consuming only one</string>
+    <string name="brd3">Get a free coffe if you dont have money but need it to start your lucky day</string>
+    <string name="espr">Espresso.........................Rp16.000</string>
+    <string name="capp">Cappuccino.......................Rp18.000</string>
+    <string name="latt">Cafe Latte.......................Rp15.000</string>
+
+
+</resources>
